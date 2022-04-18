@@ -1,2 +1,2 @@
 # OpenClassrooms
-all my open classrooms project
+all my open classrooms projects
